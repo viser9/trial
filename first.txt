@@ -3,3 +3,5 @@ line 1
 line from staging area
 afasfasfd
 hello there
+hello here
+
