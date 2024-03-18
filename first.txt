@@ -4,4 +4,5 @@ line from staging area
 afasfasfd
 hello there
 hello here
+hello not from there but here
 
